@@ -65,7 +65,7 @@ Revenue segmentation by lead profiles
 
 # 🔗 Links
 
-![Open In Colab](https://drive.google.com/file/d/1H6kF7uJKum9ujvOx9ALqelQIPG2XrzxY/view?usp=sharing)
+![Open In Colab](https://colab.research.google.com/drive/1TO9R522kKARxn8cRXkO4hfjTGimKd_6w?usp=sharing)
 
 
 power BI()
