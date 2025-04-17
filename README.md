@@ -1,6 +1,6 @@
 # Olist-E-commerce-Funnel-Sales-Analysis
 
-![logo]()
+![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Olist-HQ-in-Brazil-1.webp)
 
 # Sales/Marketing Funnel Analysis Project
 
