@@ -1,5 +1,7 @@
 # Olist-E-commerce-Funnel-Sales-Analysis
 
+![logo]()
+
 # Sales/Marketing Funnel Analysis Project
 
 
