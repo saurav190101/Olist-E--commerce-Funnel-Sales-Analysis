@@ -5,7 +5,7 @@
 
 # 🚀 Project Overview
 
-# This project presents a Sales Funnel Analysis based on Olist's Marketing and Closed Deals datasets. The objective is to analyze the lead generation and conversion funnel to uncover key insights for business   growth.
+This project presents a Sales Funnel Analysis based on Olist's Marketing and Closed Deals datasets. The objective is to analyze the lead generation and conversion funnel to uncover key insights for business   growth.
 
 # Technologies Used:
 
