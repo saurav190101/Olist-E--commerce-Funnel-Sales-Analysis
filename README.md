@@ -23,13 +23,18 @@ Power BI (for visualization)
 # 📁 Project Structure
 
 📦 Olist Funnel Sales Project
+
 ├── data
+
 │   ├── olist_marketing_qualified_leads_dataset.csv
 │   └── olist_closed_deals_dataset.csv
+
 ├── notebooks
 │   └── funnel_analysis.ipynb
+
 ├── powerbi
 │   └── funnel_dashboard.pbix
+
 ├── images
 │   ├── imge.logo
 │   
