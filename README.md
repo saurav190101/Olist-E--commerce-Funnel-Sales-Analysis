@@ -20,6 +20,21 @@ Power BI (for visualization)
 (https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 
+# 📁 Project Structure
+
+📦 Olist Funnel Sales Project
+├── data
+│   ├── olist_marketing_qualified_leads_dataset.csv
+│   └── olist_closed_deals_dataset.csv
+├── notebooks
+│   └── funnel_analysis.ipynb
+├── powerbi
+│   └── funnel_dashboard.pbix
+├── images
+│   ├── imge.logo
+│   
+└── README.md
+
 
 # 📊 Key Business Questions Answered
 
@@ -52,6 +67,19 @@ Analyzed revenue based on segment, lead type, and behavior profile.
 Visualized lead inflow and conversion trends using line graphs.
 
 --Insight: Identified patterns and growth opportunities.
+
+
+# 🧪 Exploratory Data Analysis (EDA)
+
+Performed EDA to:
+
+Understand the structure and quality of the data
+
+Clean missing/null values
+
+Convert data types (especially date columns)
+
+Extract insights from lead segments, sources, and revenue
 
 
 # 📈 Visualizations (Power BI)
