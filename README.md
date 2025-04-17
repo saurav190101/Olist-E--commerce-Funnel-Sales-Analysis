@@ -25,31 +25,31 @@ Power BI (for visualization)
 
 Calculated the percentage of Marketing Qualified Leads (MQLs) that converted to closed deals.
 
-Insight: Understanding the efficiency of the marketing funnel.
+--Insight: Understanding the efficiency of the marketing funnel.
 
 2. Lead Time
 
 Calculated the average number of days between first contact and deal closure.
 
-Insight: Measured time efficiency in the funnel.
+--Insight: Measured time efficiency in the funnel.
 
 3. Lead Source Analysis
 
 Analyzed the most effective traffic sources based on deal closures.
 
-Insight: Identified top-performing channels (e.g., organic, paid media).
+--Insight: Identified top-performing channels (e.g., organic, paid media).
 
 4. Revenue Segmentation by Lead Attributes
 
 Analyzed revenue based on segment, lead type, and behavior profile.
 
-Insight: Prioritized high-value lead groups.
+--Insight: Prioritized high-value lead groups.
 
 5. Monthly Trends of MQLs vs Closed Deals
 
 Visualized lead inflow and conversion trends using line graphs.
 
-Insight: Identified patterns and growth opportunities.
+--Insight: Identified patterns and growth opportunities.
 
 
 # 📈 Visualizations (Power BI)
@@ -65,7 +65,8 @@ Revenue segmentation by lead profiles
 
 # 🔗 Links
 
-Googla Collab(https://drive.google.com/file/d/1H6kF7uJKum9ujvOx9ALqelQIPG2XrzxY/view?usp=sharing)
+[![Open In Colab](https://drive.google.com/file/d/1H6kF7uJKum9ujvOx9ALqelQIPG2XrzxY/view?usp=sharing)
+
 
 power BI()
 
