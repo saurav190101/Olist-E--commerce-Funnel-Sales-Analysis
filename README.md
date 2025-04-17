@@ -3,22 +3,23 @@
 # Sales/Marketing Funnel Analysis Project
 
 
-🚀 Project Overview
+# 🚀 Project Overview
 
-This project presents a Sales Funnel Analysis based on Olist's Marketing and Closed Deals datasets. The objective is to analyze the lead generation and conversion funnel to uncover key insights for business growth.
+# This project presents a Sales Funnel Analysis based on Olist's Marketing and Closed Deals datasets. The objective is to analyze the lead generation and conversion funnel to uncover key insights for business   growth.
 
-Technologies Used:
+# Technologies Used:
 
 Python (pandas)
 
 Power BI (for visualization)
 
 📁 Datasets Used
+
 (https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 
 
-📊 Key Business Questions Answered
+# 📊 Key Business Questions Answered
 
 1. Lead Conversion Rate
 
@@ -51,12 +52,27 @@ Visualized lead inflow and conversion trends using line graphs.
 Insight: Identified patterns and growth opportunities.
 
 
-📈 Visualizations (Power BI)
+# 📈 Visualizations (Power BI)
 
-Power BI dashboards were created to visually communicate:
+# Power BI dashboards were created to visually communicate:
 
 Funnel drop-offs
 
 Monthly performance
 
 Revenue segmentation by lead profiles
+
+
+# 🔗 Links
+
+Googla Collab()
+
+power BI()
+
+
+# 🙌 Let's Connect
+
+# If you're a startup or business looking to understand your customer journey better, or a recruiter hiring for a data role, feel free to connect!
+
+📩 LinkedIn (https://www.linkedin.com/in/saurav-kumar-3972522b0/)| ✉️ Email(sauravk190101@gmail.com)
+
