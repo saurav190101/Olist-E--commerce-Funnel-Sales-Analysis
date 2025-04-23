@@ -13,7 +13,7 @@ This project presents a Sales Funnel Analysis based on Olist's Marketing and Clo
 
 Python (pandas)
 
-Power BI (for visualization)
+Plotly & Seaborn for visualization
 
 📁 Datasets Used
 
@@ -32,8 +32,8 @@ Power BI (for visualization)
 ├── notebooks
 │   └── funnel_analysis.ipynb
 
-├── powerbi
-│   └── funnel_dashboard.pbix
+├── plotly & Seaborn
+│   └── visualization
 
 ├── images
 │   ├── imge.logo
@@ -103,7 +103,6 @@ Revenue segmentation by lead profiles
 [open in collab](link: https://colab.research.google.com/drive/1TO9R522kKARxn8cRXkO4hfjTGimKd_6w?usp=sharing)
 
 
-power BI()
 
 
 # 🙌 Let's Connect
