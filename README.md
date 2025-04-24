@@ -96,6 +96,7 @@ Monthly performance
 
 Revenue segmentation by lead profiles
 
+![Screenshot description](path_to_screenshot_file)
 
 # 🔗 Links
 
