@@ -97,12 +97,12 @@ Revenue segmentation by lead profiles
 
 identify the most effective sources for closing deals.
 
-![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
+![logo](https://github.com/saurav190101/Olist-E--A-Funnel-Sales-Analysis/blob/main/Screenshot 2025-04-24 204508.png)
 
 
 Observed lead generation and deal closure trends over time.
 
-![logo](![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
+![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
 
 # 🔗 Links
 
