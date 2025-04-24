@@ -90,11 +90,15 @@ Extract insights from lead segments, sources, and revenue
 # 📈 Visualizations Python(plotly)
 
 
-Funnel drop-offs
+Observed lead generation and deal closure trends over time.
 
-Monthly performance
+![logo](https://github.com/saurav190101/Olist-E--A-Funnel-Sales-Analysis/blob/main/Screenshot 2025-04-24 204508.png)
+
 
 Revenue segmentation by lead profiles
+
+![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
+
 
 ![logo](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
 
