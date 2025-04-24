@@ -111,7 +111,7 @@ Observed lead generation and deal closure trends over time.
 
 # 🔗 Links
 
-[open in collab](https://drive.google.com/file/d/1pkU7RS-0AYA4i_pD557VFLCRA2_vWHjN/view?usp=sharing)
+[open in collab]()
 
 
 
