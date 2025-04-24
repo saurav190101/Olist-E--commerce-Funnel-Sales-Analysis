@@ -32,7 +32,7 @@ Plotly & Seaborn for visualization
 ├── notebooks
 │   └── funnel_analysis.ipynb
 
-├── plotly & Seaborn
+├── plotly
 │   └── visualization
 
 ├── images
@@ -87,9 +87,8 @@ Convert data types (especially date columns)
 Extract insights from lead segments, sources, and revenue
 
 
-# 📈 Visualizations (Power BI)
+# 📈 Visualizations Python(plotly)
 
-# Power BI dashboards were created to visually communicate:
 
 Funnel drop-offs
 
