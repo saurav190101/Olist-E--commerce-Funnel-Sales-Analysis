@@ -105,7 +105,7 @@ identify the most effective sources for closing deals.
 
 Observed lead generation and deal closure trends over time.
 
-![screenshot](https://github.com/saurav190101/Olist-E--A-Funnel-Sales-Analysis/blob/main/Screenshot 2025-04-24 204508.png)
+![screenshot](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20204508.png)
 
 
 
