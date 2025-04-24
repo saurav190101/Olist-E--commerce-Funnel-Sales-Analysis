@@ -96,7 +96,7 @@ Monthly performance
 
 Revenue segmentation by lead profiles
 
-![Screenshot description](Screenshot 2025-04-24 203823.png)
+![Screenshot description](https://github.com/saurav190101/Olist-E--commerce-Funnel-Sales-Analysis/blob/main/Screenshot%202025-04-24%20203823.png)
 
 # 🔗 Links
 
