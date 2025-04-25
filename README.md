@@ -111,7 +111,7 @@ Observed lead generation and deal closure trends over time.
 
 # 🔗 Links
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pkU7RS-0AYA4i_pD557VFLCRA2_vWHjN/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ogV9UUACCqjpeAkZg8ZHDbHcqMIM0Fic?usp=sharing)
 
 
 
